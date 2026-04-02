@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "STRAIGHT BET",
+  "base_artist": "MYTH & ROID",
+  "createdAt": "2026-04-02T08:04:59.537554Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Straight Bet",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/01_Straight_Bet_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "STRAIGHT BET",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/02_STRAIGHT_BET_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "STRAIGHT BET",
+      "artist": "Myth & Roid",
+      "has_synced": true,
+      "path": "select/03_STRAIGHT_BET_Myth_&_Roid.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "STRAIGHT BET",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/04_STRAIGHT_BET_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "STRAIGHT BET (INSERT)*",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/05_STRAIGHT_BET_(INSERT)_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "STRAIGHT BET",
+      "artist": "MYTH & ROID",
+      "has_synced": true,
+      "path": "select/06_STRAIGHT_BET_MYTH_&_ROID.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "STRAIGHT BET",
+      "artist": "MYTH",
+      "has_synced": false,
+      "path": "select/07_STRAIGHT_BET_MYTH.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "straight bet",
+      "artist": "myth  roid",
+      "has_synced": true,
+      "path": "select/08_straight_bet_myth_roid.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "STRAIGHT BET",
+      "artist": "MYTH & ROID",
+      "has_synced": false,
+      "path": "select/pl_01_STRAIGHT_BET_MYTH_&_ROID.txt"
+    }
+  ]
+}
